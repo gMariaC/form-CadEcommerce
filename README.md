@@ -14,7 +14,7 @@ Projeto criado como parte da disciplina de Fundamentos de Desenvolvimento, minis
 
 O projeto consiste na composição de uma página de "Log-in", "Endereço" e "Conclusão", para que o usuário insira informações sensíveis para se cadastrar em um site de compras.
 
-### Resultado do projeto.
+# Resultado do projeto.
 
 ![Resultado Final do Projeto](img/resultado-login.png)
 ![Resultado Final do Endereço](img/resultado-endereco.png)
