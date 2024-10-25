@@ -12,7 +12,9 @@ Projeto criado como parte da disciplina de Fundamentos de Desenvolvimento, minis
 
 ### Descrição
 
-O projeto consiste na composição de uma página de "Log-in", "Endereço" e "Conclusão", para que o usuário insira informações sensíveis para se cadastrar em um site de compras.
+O projeto consiste na composição de uma página de "Log-in", "Endereço" e "Conclusão", para que o usuário insira informações sensíveis para se cadastrar em um site de compras. Para construção desse projeto, foram reutilizados os projetos de [Formulário de contato](https://github.com/gMariaC/form-contato), [Formulário de login](https://github.com/gMariaC/projeto-login) e o [Projeto Ecommerce](https://github.com/gMariaC/projeto-ecommerce)
+
+Antes de iniciar o projeto, foram feitas pesquisas em três diferentes sites de compra online, eles foram: [SHEIN](https://br.shein.com), [Shopee](https://shopee.com.br) e a [Amazon](https://www.amazon.com.br).
 
 # Resultado do projeto.
 
@@ -117,8 +119,6 @@ body{
 }
 ```
 
-Para a realização deste projeto, foram feitas pesquisas sobre sites de venda online, que foram documentadas no Word.
-
 ## Tecnologias
 
 * HTML
@@ -129,7 +129,13 @@ Para a realização deste projeto, foram feitas pesquisas sobre sites de venda o
 
 ## Referencias
 
-[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README íncrivel no seu GitHub.
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README íncrivel no seu GitHub.
+* [Formulário de contato](https://github.com/gMariaC/form-contato)
+* [Formulário de login](https://github.com/gMariaC/projeto-login)
+* [Projeto Ecommerce](https://github.com/gMariaC/projeto-ecommerce)
+* [SHEIN](https://br.shein.com)
+* [Shopee](https://shopee.com.br)
+* [Amazon](https://www.amazon.com.br)
 
 ## Autor(a)
 
